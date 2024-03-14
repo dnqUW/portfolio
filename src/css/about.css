@@ -1,0 +1,14 @@
+.headshot{
+    height: 500px;
+    width: 400px;
+    margin-left: 15px;
+}
+
+.about-container {
+    display: flex;
+    
+}
+
+.about-text p {
+    font-size: large;
+}
