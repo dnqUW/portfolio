@@ -1,0 +1,41 @@
+.footer {
+    background-color: black;
+    height: 50px; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center; /* Horizontally center content */
+    align-items: center; /* Vertically center content */
+    position: fixed; /* Fix the footer at the bottom */
+    left: 0; /* Ensure it starts from the left edge */
+    right: 0; /* Ensure it ends at the right edge */
+    bottom: 0; /*Stick the footer to the bottom of the viewport*/
+    padding: 20px;
+  }
+
+.full-name, .logos {
+    flex-basis: 50%;
+    display: flex;
+}
+
+
+
+.logos {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.logos a {
+    margin: 10px;
+}
+
+.linkedin-logo, .github-logo, .email-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.copy, .react {
+    font-size: large;
+    margin-right: 5px;
+}
+
+

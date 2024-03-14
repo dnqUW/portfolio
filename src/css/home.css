@@ -1,0 +1,4 @@
+section {
+    min-height: 100vh; /* makes section at least full height of view port*/
+    background-color: lightslategray;
+}
