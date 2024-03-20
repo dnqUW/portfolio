@@ -8,9 +8,7 @@ export default function ProjectCard(props) {
         <div className="card-body">
             <h5 className="card-title">{props.data.name}</h5>
             <p className="card-text">{props.data.description}</p>
-            <div className="btn-container">
-                <a href= {props.data.url} className="btn btn-primary">Read</a>
-            </div>
+            <a href= {props.data.url} className="btn btn-primary" target="_blank" rel="noreferrer">Go</a>
         </div>
         </div>        
     );

@@ -27,14 +27,29 @@
 
     .bars {
         display: block;
-
         color: white;
-    
-        height: 200px;
+        height: 35px;
+        width: 80px;
     }
 
+    .bars-container {
+        padding: 85%;
+    }
 
     .navbar ul {
         display: none;
+    }
+
+    .navbar {
+        flex-wrap: nowrap !important;
+    }
+
+    .navbar ul.displayMenu {
+        display: block;
+        position: absolute;
+        top: 50px;
+        right: -140px;
+        width: 250px;
+        background-color: brown;
     }
 }

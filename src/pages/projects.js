@@ -6,10 +6,9 @@ import Card from "../components/project-cards.js";
 export default function Projects() {
     
     let arrayCards = ProjectData.map((cardData) => {
-        return <Card data={cardData}/>;
+        return <Card data={cardData} key={cardData.name}/>;
     });
     
-
     return (
         <section>
             <Navbar />
