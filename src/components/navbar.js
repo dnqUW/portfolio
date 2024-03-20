@@ -1,7 +1,10 @@
 import "../css/navbar.css";
 import {NavLink} from "react-router-dom";
+import {FaBars} from "react-icons/fa";
 
 export default function Navbar() {
+    
+    
     return(
         <nav className="navbar">
             
@@ -11,7 +14,10 @@ export default function Navbar() {
                     <li><NavLink to ="/projects">Projects</NavLink></li>
                     <li><NavLink to="/resume">Resume</NavLink></li>
                 </ul>
-            
+             
+                    <FaBars className="bars"/>
+             
+
         </nav>
     );
 }
