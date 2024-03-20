@@ -47,9 +47,10 @@
     .navbar ul.displayMenu {
         display: block;
         position: absolute;
-        top: 50px;
+        top: 85px;
         right: -140px;
-        width: 250px;
-        background-color: brown;
+        width: 220px;
+        padding: 10px; 
+        background-color: black;
     }
 }

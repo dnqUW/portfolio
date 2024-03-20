@@ -6,7 +6,7 @@ export default function Footer() {
         <footer className="footer">
             <div className="full-name">
                 <p className="copy" style={{color: '#FFFFFF'}}>&copy;Derek Quach</p>
-                <p className="react" style={{ color: '#FFFFFF'}}>Made with React</p>
+                <p className="react" style={{ color: '#FFFFFF'}}>| Made with React</p>
             </div>
             <div className="logos">
                 <a href="mailto:derek.quach15@gmail.com"><FaEnvelope className="email-logo" style={{ color: '#FFFFFF'}}/></a>

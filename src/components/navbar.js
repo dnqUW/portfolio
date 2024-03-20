@@ -18,7 +18,7 @@ export default function Navbar() {
     return(
         <nav className="navbar">
             
-                <ul className= {`navlist ${toggleMenu ? "displayMenu" : ""}`}>
+                <ul className= {`navlist ${showMenu ? "displayMenu" : ""}`}>
                     <li><NavLink to="/">Home</NavLink></li>
                     <li><NavLink to="/about">About</NavLink></li>
                     <li><NavLink to ="/projects">Projects</NavLink></li>

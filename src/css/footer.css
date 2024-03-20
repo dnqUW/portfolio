@@ -38,4 +38,17 @@
     margin-right: 5px;
 }
 
-
+@media(max-width: 650px) {
+    /* .footer {
+        width: 100%;
+        
+    } */
+    .full-name {
+        display: block;
+    }
+    
+    .copy, .react {
+        font-size: medium;
+        margin: 1px;
+    }
+}
