@@ -2,6 +2,7 @@ import Navbar from "../components/navbar.js";
 import Footer from "../components/footer.js";
 import ProjectData from "../data/projects.json";
 import Card from "../components/project-cards.js";
+import "../css/projects.css";
 
 export default function Projects() {
     

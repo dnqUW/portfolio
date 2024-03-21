@@ -2,13 +2,19 @@
     height: 500px;
     width: 400px;
     margin-left: 15px;
+    float: right;
 }
 
 .about-container {
-    display: flex;
+    display: inline-block;
     
 }
 
 .about-text p {
-    font-size: large;
+    font-size: larger;
+}
+
+.bottom-text {
+    margin-bottom: 50px;
+    display: block;
 }

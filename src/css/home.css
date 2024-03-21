@@ -2,3 +2,15 @@ section {
     min-height: 100vh; /* makes section at least full height of view port*/
     background-color: lightslategray;
 }
+
+.introduction {
+    font-size: 22px;
+    display: flex;
+
+}
+
+
+.headshot-linked-in {
+    height: 450px;
+    float: left;
+}

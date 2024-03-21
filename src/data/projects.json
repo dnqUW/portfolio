@@ -1,45 +1,45 @@
 [
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/social-media-api.PNG",
         "name": "Social Media API Doc",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "social media api doc photo",
+        "description": "Social Media API Documents the API Derek created during his time at Revature",
         "url": "https://docs.google.com/document/d/1rOXIoSUy8NMD_AHr192gqioUQmyF0OQNTVeC4ukK-ZQ/edit?usp=sharing"
     },
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/NeuralNetwork.PNG",
         "name": "Building a Neural Network",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "Building a Neural Network photo",
+        "description": "Learn how to build a neural network in java here!",
         "url": "https://docs.google.com/document/d/1Z7hpRq2ghq5051isV3Bv11Q6JG783s_6qlYcUXIDzvQ/edit?usp=sharing"
     },
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/WordPress.PNG",
         "name": "WordPress Plugin Integration Guide",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "WordPress Plugin Integration Guide photo",
+        "description": "Learn how to integrate your humanID plugin into your WordPress",
         "url": "https://docs.human-id.org/wordpress-plugin-integration-guide"
     },
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/DiscordBot.PNG",
         "name": "Discord Bot Integration Guide",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "Discord Bot Integration Guide photo",
+        "description": "Learn how to integrate your humanID Bot into your Discord",
         "url": "https://docs.human-id.org/discord-bot-integration-guide"
 
     },
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/RAMintoPC.avif",
         "name": "How to Install RAM into your PC",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "How to Install RAM into your PC photo",
+        "description": "Learn how to install RAM into your PC",
         "url": "https://docs.google.com/document/d/1_OoUfjHdtEVaQGeO9WDYF26lRsCR_epemG9zZC591Lc/edit?usp=sharing"
     },
     {
-        "thumbnail": "./img/derek-quach-headshot.png",
+        "thumbnail": "./img/SSO.png",
         "name": "How Does Single Sign-on Work?",
-        "alt": "",
-        "description": "Lorem ipsum",
+        "alt": "How Does Single Sign-on Work photo",
+        "description": "Learn how single sign-on works",
         "url": "https://docs.google.com/document/d/1Bhkz14nrg0BbPXbYc6H-jyXc55_T_2fFe1SYYHqfb-E/edit?usp=sharing"
     }
 ]

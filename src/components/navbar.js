@@ -19,7 +19,7 @@ export default function Navbar() {
         <nav className="navbar">
             
                 <ul className= {`navlist ${showMenu ? "displayMenu" : ""}`}>
-                    <li><NavLink to="/">Home</NavLink></li>
+                    <li><NavLink to="/">Derek Quach</NavLink></li>
                     <li><NavLink to="/about">About</NavLink></li>
                     <li><NavLink to ="/projects">Projects</NavLink></li>
                     <li><a href="./assets/derek-quach-resume.pdf" target="_blank" rel="noreferrer">Resume</a></li>

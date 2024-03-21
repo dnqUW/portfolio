@@ -39,10 +39,10 @@
 }
 
 @media(max-width: 650px) {
-    /* .footer {
+    .footer {
         width: 100%;
         
-    } */
+    }
     .full-name {
         display: block;
     }
