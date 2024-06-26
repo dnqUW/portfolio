@@ -13,7 +13,7 @@ export default function Projects() {
     return (
         <section>
             <Navbar />
-            <h1>Projects</h1>
+            <h1 className="projects-word">Projects</h1>
             <div className="array-cards-container">
                 {arrayCards}
             </div>

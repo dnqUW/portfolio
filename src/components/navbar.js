@@ -22,7 +22,7 @@ export default function Navbar() {
                     <li><NavLink to="/">Derek Quach</NavLink></li>
                     <li><NavLink to="/about">About</NavLink></li>
                     <li><NavLink to ="/projects">Projects</NavLink></li>
-                    <li><a href="./assets/derek-quach-resume.pdf" target="_blank" rel="noreferrer">Resume</a></li>
+                    <li><a href="./assets/Updated_tech_writer_resume (6).pdf" target="_blank" rel="noreferrer">Resume</a></li>
                 </ul>
                 <div className="bars-container">
                     <FaBars className="bars" onClick= {handleMenuTap} />

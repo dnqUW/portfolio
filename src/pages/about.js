@@ -6,14 +6,14 @@ export default function About() {
     return (
         <section>
             <Navbar />
-            <h1>About</h1>
+            <h1 className="about-header">About</h1>
             <div className="about-container">
                 <div className="about-text">
                 <div>
                     <img src="./img/derek-quach-headshot.png" alt="derek quach headshot" className="headshot"/>
                 </div>
                     <p>Derek Quach is a technical writer of 1.5 years.</p>
-                    <p>Derek Quach graduated from the University of Washington with a BA in English and a BS in Biology from Highline College.
+                    <p>Derek Quach graduated from the University of Washington with a BA in English and a AS in Biology from Highline College.
                     </p>
                     <p>
                         Derek has partaken in Revature's bootcamp as one of the student engineers. He aced all 93 (combined) Java and SQL coding labs, challenges, and mini‑project.

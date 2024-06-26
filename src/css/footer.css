@@ -47,6 +47,10 @@
         display: block;
     }
     
+    .logos{
+        padding: 0px;
+    }
+    
     .copy, .react {
         font-size: medium;
         margin: 1px;

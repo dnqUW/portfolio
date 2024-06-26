@@ -19,7 +19,7 @@ export default function Home() {
 
             </div>
         
-            <div className="logos">
+            <div className="logos-on-home">
                 {/* all icons are from icon8 */}
                 <img className="java" src="./assets/logos/icons8-java-100.png" alt="java logo"/>
                 <img className="SQL" src="./assets/logos/icons8-sql-100.png" alt="SQL logo"/>

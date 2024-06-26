@@ -1,5 +1,19 @@
 [
     {
+        "thumbnail": "./img/Troubleshooting-guide.PNG",
+        "name": "Troubleshooting Guide for Network Issues",
+        "alt": "Troubleshooting guide for network issues picture",
+        "description": "In less than 5 pages, follow the OSI 7 layer model to troubleshoot your network issues",
+        "url": "https://docs.google.com/document/d/11toj0w8QqDyI3TYs7bX7JHViya6immjKjD8dIuWMKa4/edit?usp=sharing"
+    },
+    {
+        "thumbnail": "./img/MOX-installation-guide.PNG",
+        "name": "MOX CMS Installation Instructions",
+        "alt": "MOX CMS Installation Instructions",
+        "description": "MOX CMS Installation Instructions created while working on Upwork",
+        "url": "https://docs.google.com/document/d/1zU0voZw-Azgme_BxtSLdmqFaDHAME4y2/edit?usp=sharing&ouid=103726846145990931464&rtpof=true&sd=true"
+    },
+    {
         "thumbnail": "./img/social-media-api.PNG",
         "name": "Social Media API Doc",
         "alt": "social media api doc photo",
@@ -10,7 +24,7 @@
         "thumbnail": "./img/NeuralNetwork.PNG",
         "name": "Building a Neural Network",
         "alt": "Building a Neural Network photo",
-        "description": "Learn how to build a neural network in java here!",
+        "description": "Learn how to build a neural network in java here",
         "url": "https://docs.google.com/document/d/1Z7hpRq2ghq5051isV3Bv11Q6JG783s_6qlYcUXIDzvQ/edit?usp=sharing"
     },
     {

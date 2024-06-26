@@ -1,6 +1,10 @@
+.heading1{
+    font-size: 80px;
+}
+
 section {
     min-height: 100vh; /* makes section at least full height of view port*/
-    background-color: lightslategray;
+    background-color: white;
 }
 
 .introduction {
@@ -12,5 +16,20 @@ section {
 
 .headshot-linked-in {
     height: 450px;
-    float: left;
+    float: right;
+}
+
+.logos-on-home {
+    display: flex;
+    justify-content: center;
+}
+
+.Git{
+    height: 85px;
+}
+
+@media(max-width: 800px) {
+    .logos-on-home {
+        display: none;
+    }
 }
