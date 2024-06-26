@@ -8,7 +8,7 @@ export default function Resume() {
             <Navbar/>
                 <h1>Resume</h1>
                 <div className="res-div">
-                    <iframe className="resume-file" src="./assets/Updated_tech_writer_resume (6).pdf" title="resume"/>
+                    <iframe className="resume-file" src="./Updated_tech_writer_resume (7).pdf" title="resume"/>
                 </div>
             <Footer />
         </section>
