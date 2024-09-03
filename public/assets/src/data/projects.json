@@ -1,0 +1,59 @@
+[
+    {
+        "thumbnail": "./img/Troubleshooting-guide.PNG",
+        "name": "Troubleshooting Guide for Network Issues",
+        "alt": "Troubleshooting guide for network issues picture",
+        "description": "In less than 5 pages, follow the OSI 7 layer model to troubleshoot your network issues",
+        "url": "https://docs.google.com/document/d/11toj0w8QqDyI3TYs7bX7JHViya6immjKjD8dIuWMKa4/edit?usp=sharing"
+    },
+    {
+        "thumbnail": "./img/MOX-installation-guide.PNG",
+        "name": "MOX CMS Installation Instructions",
+        "alt": "MOX CMS Installation Instructions",
+        "description": "MOX CMS Installation Instructions created while working on Upwork",
+        "url": "https://docs.google.com/document/d/1zU0voZw-Azgme_BxtSLdmqFaDHAME4y2/edit?usp=sharing&ouid=103726846145990931464&rtpof=true&sd=true"
+    },
+    {
+        "thumbnail": "./img/social-media-api.PNG",
+        "name": "Social Media API Doc",
+        "alt": "social media api doc photo",
+        "description": "Social Media API Documents the API Derek created during his time at Revature",
+        "url": "https://docs.google.com/document/d/1rOXIoSUy8NMD_AHr192gqioUQmyF0OQNTVeC4ukK-ZQ/edit?usp=sharing"
+    },
+    {
+        "thumbnail": "./img/NeuralNetwork.PNG",
+        "name": "Building a Neural Network",
+        "alt": "Building a Neural Network photo",
+        "description": "Learn how to build a neural network in java here",
+        "url": "https://docs.google.com/document/d/1Z7hpRq2ghq5051isV3Bv11Q6JG783s_6qlYcUXIDzvQ/edit?usp=sharing"
+    },
+    {
+        "thumbnail": "./img/WordPress.PNG",
+        "name": "WordPress Plugin Integration Guide",
+        "alt": "WordPress Plugin Integration Guide photo",
+        "description": "Learn how to integrate your humanID plugin into your WordPress",
+        "url": "https://docs.human-id.org/wordpress-plugin-integration-guide"
+    },
+    {
+        "thumbnail": "./img/DiscordBot.PNG",
+        "name": "Discord Bot Integration Guide",
+        "alt": "Discord Bot Integration Guide photo",
+        "description": "Learn how to integrate your humanID Bot into your Discord",
+        "url": "https://docs.human-id.org/discord-bot-integration-guide"
+
+    },
+    {
+        "thumbnail": "./img/RAMintoPC.avif",
+        "name": "How to Install RAM into your PC",
+        "alt": "How to Install RAM into your PC photo",
+        "description": "Learn how to install RAM into your PC",
+        "url": "https://docs.google.com/document/d/1_OoUfjHdtEVaQGeO9WDYF26lRsCR_epemG9zZC591Lc/edit?usp=sharing"
+    },
+    {
+        "thumbnail": "./img/SSO.png",
+        "name": "How Does Single Sign-on Work?",
+        "alt": "How Does Single Sign-on Work photo",
+        "description": "Learn how single sign-on works",
+        "url": "https://docs.google.com/document/d/1Bhkz14nrg0BbPXbYc6H-jyXc55_T_2fFe1SYYHqfb-E/edit?usp=sharing"
+    }
+]

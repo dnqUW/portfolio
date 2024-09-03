@@ -1,0 +1,35 @@
+.heading1{
+    font-size: 80px;
+}
+
+section {
+    min-height: 100vh; /* makes section at least full height of view port*/
+    background-color: white;
+}
+
+.introduction {
+    font-size: 22px;
+    display: flex;
+
+}
+
+
+.headshot-linked-in {
+    height: 450px;
+    float: right;
+}
+
+.logos-on-home {
+    display: flex;
+    justify-content: center;
+}
+
+.Git{
+    height: 85px;
+}
+
+@media(max-width: 800px) {
+    .logos-on-home {
+        display: none;
+    }
+}
